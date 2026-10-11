@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as n,ag as t}from"./chunks/framework.CrXGS008.js";const m=JSON.parse('{"title":"FAQ","description":"","frontmatter":{},"headers":[],"relativePath":"de/faq.md","filePath":"de/faq.md"}'),i={name:"de/faq.md"};function d(o,e,s,c,l,h){return a(),n("div",null,[...e[0]||(e[0]=[t("",18)])])}const f=r(i,[["render",d]]);export{m as __pageData,f as default};
